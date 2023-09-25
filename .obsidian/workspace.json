@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "11b8c0ba34ad9a17",
+        "id": "945d044c4f1511ba",
         "type": "tabs",
         "children": [
           {
-            "id": "5ab397e995dcca38",
+            "id": "04a2b87632d46446",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/General/SemVer - 버전 표기법.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/General/SemVer - 버전 표기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/General/SemVer - 버전 표기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "_posts/General/SemVer - 버전 표기법.md"
+              }
+            }
+          },
+          {
+            "id": "18f224a4038c0afc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +154,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5ab397e995dcca38",
-  "lastOpenFiles": []
+  "active": "04a2b87632d46446",
+  "lastOpenFiles": [
+    "README.md",
+    "_posts/General/SemVer - 버전 표기법.md"
+  ]
 }

@@ -2,7 +2,8 @@
   "obsidian-git:commit-specified-message": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "P"
     }
