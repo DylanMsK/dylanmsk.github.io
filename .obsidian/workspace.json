@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/General/SemVer - 버전 표기법.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/General/SemVer - 버전 표기법.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/General/SemVer - 버전 표기법.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/General/SemVer - 버전 표기법.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,7 +156,8 @@
   },
   "active": "04a2b87632d46446",
   "lastOpenFiles": [
-    "README.md",
-    "_posts/General/SemVer - 버전 표기법.md"
+    "_posts/General/SemVer - 버전 표기법.md",
+    "_posts/General/2022-09-01-sementic-versioning.md",
+    "README.md"
   ]
 }
