@@ -6,7 +6,7 @@ categories: [DevOps, Common]
 tags: [semver, version, semantic versioning]
 published: true
 pin: false
-img_path: /assets/img/posts/semver/
+# img_path: /assets/img/posts/semver/
 ---
 
 이번 글에서는 버전 관리에 대해 알아보려고 한다.  
@@ -32,11 +32,10 @@ SemVer는 Github의 공동창업자인 [톰 프레스턴-베르너](https://tom.
 ## 유의적 버전(SemVer)이란?
 
 요약하자면 버전을 아래와 같이 표현하는 방식을 말한다.
-![semver](semver.png)
+![semver](https://media.geeksforgeeks.org/wp-content/uploads/semver.png)
 - Major: 신규 업데이트로 인해 기존 버전과 호환되지 않는다면 major를 한 단계 올린다.
 - Minor: 신규 기능이 추가되거나 기존 기능이 사라졌지만 기존 버전과 호환이 된다면 minor를 한 단계 올린다.
 - Patch: 기존 버전에서의 버그를 수정하였거나 동일한 기능의 코드 리팩토링이 발생했다면 patch를 한 단계 올린다.
-- Label: 정식 배포 전 버전이나 빌드 메타데이터를 위한 label로, 아스키(ASCII) 문자로 표현한다.
 
 공식 SemVer 명세는 총 11개의 규칙으로 이루어져 있으며, 혼동하기 쉬운 몇 가지 규칙에 대해서 정리한다.
 
