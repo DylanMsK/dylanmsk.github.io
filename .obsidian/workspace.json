@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59ad30172e9ad4e6",
+        "id": "eca5982b4ba12fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "c7b4e7a066b217a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "75e0a79b17dec9a5",
+            "id": "1c7f5b6fcaaf5368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/일반 문서 양식.md",
+                "file": "2023-09-17-순위.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fd103644e48ffe7c",
@@ -93,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-09-17-순위.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-09-17-순위.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-09-17-순위.md"
+              }
             }
           },
           {
@@ -159,10 +156,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7b4e7a066b217a6",
+  "active": "1c7f5b6fcaaf5368",
   "lastOpenFiles": [
-    "Templates/일반 문서 양식.md",
+    "_posts/Algorithm/Graph",
+    "_posts/Algorithm",
+    "2023-09-17-순위.md",
     "무제 파일.md",
+    "Templates/일반 문서 양식.md",
     "_posts/General/2022-09-01-sementic-versioning.md",
     "README.md",
     "Template.md",
