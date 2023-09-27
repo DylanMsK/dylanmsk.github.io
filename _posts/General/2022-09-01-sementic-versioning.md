@@ -1,12 +1,17 @@
 ---
 title: SemVer - 버전 표기법
 date: 2022-09-01 09:00:00 +9000
-description: 'Software 버전 관리 규칙에 대해 알아보자'
-categories: [DevOps, Common]
-tags: [semver, version, semantic versioning]
+description: Software 버전 관리 규칙에 대해 알아보자
+categories:
+  - General
+  - Common
+tags:
+  - semver
+  - version
+  - semantic
+  - versioning
 published: true
 pin: false
-# img_path: /assets/img/posts/semver/
 ---
 
 이번 글에서는 버전 관리에 대해 알아보려고 한다.  

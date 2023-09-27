@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-17-순위.md",
+                "file": "_posts/General/2022-09-01-sementic-versioning.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fd103644e48ffe7c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-17-순위.md",
+                "file": "_posts/General/2022-09-01-sementic-versioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-17-순위.md",
+                "file": "_posts/General/2022-09-01-sementic-versioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-17-순위.md"
+                "file": "_posts/General/2022-09-01-sementic-versioning.md"
               }
             }
           },
@@ -158,9 +157,9 @@
   },
   "active": "1c7f5b6fcaaf5368",
   "lastOpenFiles": [
+    "2023-09-17-순위.md",
     "_posts/Algorithm/Graph",
     "_posts/Algorithm",
-    "2023-09-17-순위.md",
     "무제 파일.md",
     "Templates/일반 문서 양식.md",
     "_posts/General/2022-09-01-sementic-versioning.md",
