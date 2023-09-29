@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eca5982b4ba12fa1",
+        "id": "cc9a06f0cbcf1dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "1c7f5b6fcaaf5368",
+            "id": "bf68c69e5845aae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/General/2022-09-01-sementic-versioning.md",
+                "file": "2023-09-03-Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/General/2022-09-01-sementic-versioning.md",
+                "file": "2023-09-03-Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/General/2022-09-01-sementic-versioning.md",
+                "file": "2023-09-03-Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/General/2022-09-01-sementic-versioning.md"
+                "file": "2023-09-03-Array.md"
               }
             }
           },
@@ -155,15 +155,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86870a0befc098cb",
+  "active": "bf68c69e5845aae2",
   "lastOpenFiles": [
+    "_posts/Algorithm/Graph/2023-09-17-순위.md",
+    "2023-09-03-Array.md",
+    "_posts/General/2022-09-01-sementic-versioning.md",
     "_posts/DataStructure",
-    "2023-09-17-순위.md",
     "_posts/Algorithm/Graph",
     "_posts/Algorithm",
     "무제 파일.md",
     "Templates/일반 문서 양식.md",
-    "_posts/General/2022-09-01-sementic-versioning.md",
     "README.md",
     "Template.md",
     "Templates",

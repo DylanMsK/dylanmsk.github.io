@@ -7,9 +7,6 @@ categories:
   - Common
 tags:
   - semver
-  - version
-  - semantic
-  - versioning
 published: true
 pin: false
 ---
